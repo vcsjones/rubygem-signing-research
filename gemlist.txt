@@ -149,11 +149,11 @@ therubyracer
 kaminari
 rubocop
 ast
-ouath2
+oauth2
 fog-core
 journey
 puma
-awk-sdk-v1
+aws-sdk-v1
 timers
 systemu
 spring
